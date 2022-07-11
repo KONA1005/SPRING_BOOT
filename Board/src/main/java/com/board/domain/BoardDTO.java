@@ -49,7 +49,5 @@ public class BoardDTO {
 				+ deleteYn + ", insertTime=" + insertTime + ", updateTime=" + updateTime + ", deleteTime=" + deleteTime
 				+ "]";
 	}
-	
-	
 
 }
